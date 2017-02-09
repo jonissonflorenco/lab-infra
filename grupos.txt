@@ -2,9 +2,9 @@
 LISTA DE GRUPOS
 =========================
 
-TI
-Financeiro
-RH
-DP
-DEV
-Projetos
+1. TI*
+2. Financeiro
+3. RH
+4. DP
+5. DEV
+6. Projetos
