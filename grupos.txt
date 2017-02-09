@@ -1,0 +1,10 @@
+=========================
+LISTA DE GRUPOS
+=========================
+
+TI
+Financeiro
+RH
+DP
+DEV
+Projetos
